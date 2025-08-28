@@ -1,10 +1,10 @@
-#Wed Aug 27 12:15:29 COT 2025
-base.2=D\:\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-path.2=11/classes.dex
-base.1=D\:\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-path.1=0/classes.dex
-base.0=D\:\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
+#Wed Aug 27 23:10:21 COT 2025
+base.0=D\:\\UN\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\UN\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\UN\\DADM-2025-2\\Reto0\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
 path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

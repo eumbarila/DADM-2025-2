@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.umba.reto0",
+  "applicationId": "com.example.reto0",
   "variantName": "debug",
   "elements": [
     {
@@ -16,5 +16,6 @@
       "outputFile": "app-debug.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "minSdkVersionForDexing": 24
 }
