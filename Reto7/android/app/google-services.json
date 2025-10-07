@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914946056245",
+    "project_id": "tic-tac-un",
+    "storage_bucket": "tic-tac-un.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914946056245:android:1175210cf6b22633e1917c",
+        "android_client_info": {
+          "package_name": "com.example.reto4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_GgHXngt1km9OxqX_AcUm9OG-6gSylw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
